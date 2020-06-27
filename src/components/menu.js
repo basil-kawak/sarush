@@ -21,6 +21,15 @@ const Menu = () => {
         <Nav.Item>
           <Nav.Link href="#footer">Contact Us</Nav.Link>
         </Nav.Item>
+
+        <Nav.Item>
+          <Nav.Link href="#header-slide">Login</Nav.Link>
+        </Nav.Item>
+
+        <Nav.Item>
+          <Nav.Link href="#header-slide">Sign Up</Nav.Link>
+        </Nav.Item>
+
       </Nav>
     </div>
   );
